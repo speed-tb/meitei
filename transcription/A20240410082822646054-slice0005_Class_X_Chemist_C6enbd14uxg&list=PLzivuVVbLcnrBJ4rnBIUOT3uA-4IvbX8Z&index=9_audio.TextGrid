@@ -1,0 +1,112 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 10.9
+tiers? <exists>
+size = 4
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "sentence-IPA-transcription"
+		xmin = 0.0
+		xmax = 10.9
+		intervals: size = 5
+		intervals [1]:
+			xmin = 0.0
+			xmax = 1.41
+			text = "0"
+		intervals [2]:
+			xmin = 1.41
+			xmax = 4.47
+			text = ""
+		intervals [3]:
+			xmin = 4.47
+			xmax = 5.05
+			text = "0"
+		intervals [4]:
+			xmin = 5.05
+			xmax = 10.87
+			text = ""
+		intervals [5]:
+			xmin = 10.87
+			xmax = 10.9
+			text = "0"
+	item [2]:
+		class = "IntervalTier"
+		name = "sentence-Mayek-transcription"
+		xmin = 0.0
+		xmax = 10.9
+		intervals: size = 5
+		intervals [1]:
+			xmin = 0.0
+			xmax = 1.41
+			text = "0"
+		intervals [2]:
+			xmin = 1.41
+			xmax = 4.47
+			text = "ꯄꯣꯠꯆꯩ ꯃꯌꯥꯝ ꯑꯃ ꯅꯨꯡꯇꯤꯒꯤ ꯄꯨꯟꯁꯤꯗ ꯊꯦꯡꯅꯩ"
+		intervals [3]:
+			xmin = 4.47
+			xmax = 5.05
+			text = "0"
+		intervals [4]:
+			xmin = 5.05
+			xmax = 10.87
+			text = "ꯍꯥꯏꯔꯤꯕ ꯄꯣꯠꯁꯤꯡ ꯑꯁꯤ ꯑꯩꯈꯣꯏꯅ ꯃꯈꯣꯏꯒꯤ ꯄ꯭ꯔꯣꯄꯔꯇꯤ ꯈꯦꯠꯅꯕꯒꯤ ꯃꯇꯨꯡ ꯏꯟꯅ ꯒ꯭ꯔꯨꯞ"
+		intervals [5]:
+			xmin = 10.87
+			xmax = 10.9
+			text = "0"
+	item [3]:
+		class = "IntervalTier"
+		name = "sentence-Latin-transcription"
+		xmin = 0.0
+		xmax = 10.9
+		intervals: size = 5
+		intervals [1]:
+			xmin = 0.0
+			xmax = 1.41
+			text = "0"
+		intervals [2]:
+			xmin = 1.41
+			xmax = 4.47
+			text = ""
+		intervals [3]:
+			xmin = 4.47
+			xmax = 5.05
+			text = "0"
+		intervals [4]:
+			xmin = 5.05
+			xmax = 10.87
+			text = ""
+		intervals [5]:
+			xmin = 10.87
+			xmax = 10.9
+			text = "0"
+	item [4]:
+		class = "IntervalTier"
+		name = "sentence-English-Latin-translation"
+		xmin = 0.0
+		xmax = 10.9
+		intervals: size = 5
+		intervals [1]:
+			xmin = 0.0
+			xmax = 1.41
+			text = "0"
+		intervals [2]:
+			xmin = 1.41
+			xmax = 4.47
+			text = ""
+		intervals [3]:
+			xmin = 4.47
+			xmax = 5.05
+			text = "0"
+		intervals [4]:
+			xmin = 5.05
+			xmax = 10.87
+			text = ""
+		intervals [5]:
+			xmin = 10.87
+			xmax = 10.9
+			text = "0"

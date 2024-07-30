@@ -1,0 +1,112 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 16.3
+tiers? <exists>
+size = 4
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "sentence-IPA-transcription"
+		xmin = 0.0
+		xmax = 16.3
+		intervals: size = 5
+		intervals [1]:
+			xmin = 0.0
+			xmax = 1.29
+			text = "0"
+		intervals [2]:
+			xmin = 1.29
+			xmax = 6.13
+			text = ""
+		intervals [3]:
+			xmin = 6.13
+			xmax = 6.32
+			text = "0"
+		intervals [4]:
+			xmin = 6.32
+			xmax = 15.74
+			text = ""
+		intervals [5]:
+			xmin = 15.74
+			xmax = 16.3
+			text = "0"
+	item [2]:
+		class = "IntervalTier"
+		name = "sentence-Mayek-transcription"
+		xmin = 0.0
+		xmax = 16.3
+		intervals: size = 5
+		intervals [1]:
+			xmin = 0.0
+			xmax = 1.29
+			text = "0"
+		intervals [2]:
+			xmin = 1.29
+			xmax = 6.13
+			text = "ꯑꯗꯨꯒ ꯁꯥꯄꯣꯟꯁꯤ ꯑꯩꯈꯣꯏꯅ ꯄꯥꯏꯕ ꯃꯇꯝꯗ ꯃꯣꯜꯂꯒ ꯅꯥꯟ-ꯅꯥꯟ ꯂꯥꯎꯕ ꯑꯣꯏ"
+		intervals [3]:
+			xmin = 6.13
+			xmax = 6.32
+			text = "0"
+		intervals [4]:
+			xmin = 6.32
+			xmax = 15.74
+			text = "ꯁꯨꯝꯅ ꯑꯩꯈꯣꯏꯅ ꯕꯤꯇꯔ ꯇꯦꯁ ꯂꯩꯕ ꯑꯗꯨꯒ ꯄꯥꯏꯕꯗ ꯊꯣꯠꯄ ꯑꯃꯗꯤ ꯅꯥꯟ-ꯅꯥꯟ ꯂꯥꯎꯕ ꯑꯣꯏꯕ ꯄꯣꯠꯁꯤꯡꯁꯤ ꯑꯩꯈꯣꯏꯅ ꯕꯦꯁꯅꯤ ꯍꯥꯏꯅ ꯍꯥꯏ"
+		intervals [5]:
+			xmin = 15.74
+			xmax = 16.3
+			text = "0"
+	item [3]:
+		class = "IntervalTier"
+		name = "sentence-Latin-transcription"
+		xmin = 0.0
+		xmax = 16.3
+		intervals: size = 5
+		intervals [1]:
+			xmin = 0.0
+			xmax = 1.29
+			text = "0"
+		intervals [2]:
+			xmin = 1.29
+			xmax = 6.13
+			text = ""
+		intervals [3]:
+			xmin = 6.13
+			xmax = 6.32
+			text = "0"
+		intervals [4]:
+			xmin = 6.32
+			xmax = 15.74
+			text = ""
+		intervals [5]:
+			xmin = 15.74
+			xmax = 16.3
+			text = "0"
+	item [4]:
+		class = "IntervalTier"
+		name = "sentence-English-Latin-translation"
+		xmin = 0.0
+		xmax = 16.3
+		intervals: size = 5
+		intervals [1]:
+			xmin = 0.0
+			xmax = 1.29
+			text = "0"
+		intervals [2]:
+			xmin = 1.29
+			xmax = 6.13
+			text = ""
+		intervals [3]:
+			xmin = 6.13
+			xmax = 6.32
+			text = "0"
+		intervals [4]:
+			xmin = 6.32
+			xmax = 15.74
+			text = ""
+		intervals [5]:
+			xmin = 15.74
+			xmax = 16.3
+			text = "0"

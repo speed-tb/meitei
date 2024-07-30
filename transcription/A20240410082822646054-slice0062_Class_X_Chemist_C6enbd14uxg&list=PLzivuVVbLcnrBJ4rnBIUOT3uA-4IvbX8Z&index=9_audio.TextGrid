@@ -1,0 +1,128 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 23.400022675736963
+tiers? <exists>
+size = 4
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "sentence-IPA-transcription"
+		xmin = 0.0
+		xmax = 23.400022675736963
+		intervals: size = 6
+		intervals [1]:
+			xmin = 0.0
+			xmax = 1.01
+			text = "0"
+		intervals [2]:
+			xmin = 1.01
+			xmax = 5.11
+			text = ""
+		intervals [3]:
+			xmin = 5.11
+			xmax = 11.8
+			text = ""
+		intervals [4]:
+			xmin = 11.8
+			xmax = 12.07
+			text = "0"
+		intervals [5]:
+			xmin = 12.07
+			xmax = 22.68
+			text = ""
+		intervals [6]:
+			xmin = 22.68
+			xmax = 23.400022675736963
+			text = "0"
+	item [2]:
+		class = "IntervalTier"
+		name = "sentence-Mayek-transcription"
+		xmin = 0.0
+		xmax = 23.400022675736963
+		intervals: size = 6
+		intervals [1]:
+			xmin = 0.0
+			xmax = 1.01
+			text = "0"
+		intervals [2]:
+			xmin = 1.01
+			xmax = 5.11
+			text = "ꯑꯗꯨꯅ ꯏꯟꯗꯤꯒꯦꯇꯔꯁꯤ ꯑꯩꯈꯣꯏꯅ ꯃꯈꯜ ꯑꯅꯤ ꯊꯣꯛꯅ ꯈꯥꯏꯗꯣꯛꯄ ꯌꯥꯏ"
+		intervals [3]:
+			xmin = 5.11
+			xmax = 11.8
+			text = "ꯑꯃꯅ ꯅꯦꯆꯨꯔꯦꯂ ꯏꯟꯗꯤꯒꯦꯇꯔ ꯑꯗꯨꯒ ꯑꯃꯅ ꯁꯤꯟꯊꯦꯇꯤꯛ ꯍꯥꯏꯕꯗꯤ ꯃꯦꯟ ꯃꯦꯠ ꯏꯟꯗꯤꯒꯦꯇꯔ"
+		intervals [4]:
+			xmin = 11.8
+			xmax = 12.07
+			text = "0"
+		intervals [5]:
+			xmin = 12.07
+			xmax = 22.68
+			text = "ꯁꯣ ꯅꯦꯆꯨꯔꯦꯜ ꯏꯟꯗꯤꯒꯦꯇꯔꯒꯤ ꯈꯨꯗꯝꯗ ꯑꯩꯈꯣꯏꯅ ꯂꯤꯠꯃꯁ ꯂꯥꯏꯈꯦꯟ ꯍꯥꯏꯔꯤꯕ ꯄꯥꯝꯕꯤꯁꯤꯗꯒꯤ ꯁꯨꯡꯕ ꯑꯦꯁꯤꯠꯅꯤ ꯅꯦꯆꯨꯔꯦꯜ ꯏꯟꯗꯤꯒꯦꯇꯔꯒꯤ ꯈꯨꯗꯝ ꯑꯣꯏꯅ ꯂꯧꯗꯣꯏꯁꯦ ꯑꯩꯈꯣꯏꯅ"
+		intervals [6]:
+			xmin = 22.68
+			xmax = 23.400022675736963
+			text = "0"
+	item [3]:
+		class = "IntervalTier"
+		name = "sentence-Latin-transcription"
+		xmin = 0.0
+		xmax = 23.400022675736963
+		intervals: size = 6
+		intervals [1]:
+			xmin = 0.0
+			xmax = 1.01
+			text = "0"
+		intervals [2]:
+			xmin = 1.01
+			xmax = 5.11
+			text = ""
+		intervals [3]:
+			xmin = 5.11
+			xmax = 11.8
+			text = ""
+		intervals [4]:
+			xmin = 11.8
+			xmax = 12.07
+			text = "0"
+		intervals [5]:
+			xmin = 12.07
+			xmax = 22.68
+			text = ""
+		intervals [6]:
+			xmin = 22.68
+			xmax = 23.400022675736963
+			text = "0"
+	item [4]:
+		class = "IntervalTier"
+		name = "sentence-English-Latin-translation"
+		xmin = 0.0
+		xmax = 23.400022675736963
+		intervals: size = 6
+		intervals [1]:
+			xmin = 0.0
+			xmax = 1.01
+			text = "0"
+		intervals [2]:
+			xmin = 1.01
+			xmax = 5.11
+			text = ""
+		intervals [3]:
+			xmin = 5.11
+			xmax = 11.8
+			text = ""
+		intervals [4]:
+			xmin = 11.8
+			xmax = 12.07
+			text = "0"
+		intervals [5]:
+			xmin = 12.07
+			xmax = 22.68
+			text = ""
+		intervals [6]:
+			xmin = 22.68
+			xmax = 23.400022675736963
+			text = "0"

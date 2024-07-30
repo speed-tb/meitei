@@ -1,0 +1,80 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 17.2
+tiers? <exists>
+size = 4
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "sentence-IPA-transcription"
+		xmin = 0.0
+		xmax = 17.2
+		intervals: size = 3
+		intervals [1]:
+			xmin = 0.0
+			xmax = 0.71
+			text = "0"
+		intervals [2]:
+			xmin = 0.71
+			xmax = 16.11
+			text = ""
+		intervals [3]:
+			xmin = 16.11
+			xmax = 17.2
+			text = "0"
+	item [2]:
+		class = "IntervalTier"
+		name = "sentence-Mayek-transcription"
+		xmin = 0.0
+		xmax = 17.2
+		intervals: size = 3
+		intervals [1]:
+			xmin = 0.0
+			xmax = 0.71
+			text = "0"
+		intervals [2]:
+			xmin = 0.71
+			xmax = 16.11
+			text = "ꯀꯣ ꯁꯣꯏꯗꯅ ꯏꯂꯦꯛꯇ꯭ꯔꯤꯁꯤꯇꯤ ꯄꯨꯊꯣꯛꯇꯥꯔꯗꯤ ꯃꯁꯤꯅ ꯃꯩꯒꯤ ꯑꯋꯥꯠꯄ ꯃꯥꯌꯣꯛꯅꯕꯗꯒꯤ ꯀꯣꯛꯍꯟꯕ ꯉꯝꯒꯅꯤ ꯑꯗꯨꯒ ꯀꯔꯤ ꯍꯥꯏꯇꯥꯔꯦ ꯍꯥꯏꯕꯗ ꯃꯈꯣꯏꯒꯤ ꯊꯛꯅꯕ ꯏꯁꯤꯡ ꯄꯤꯔꯅꯤ, ꯑꯔꯥꯞꯄ ꯔꯤꯃꯣꯠ ꯑꯣꯏꯕ ꯃꯐꯝꯁꯤꯡꯗꯁꯨ ꯊꯛꯅꯕꯒꯤ ꯏꯁꯤꯡ ꯄꯤꯔꯅꯤ ꯀꯣ ꯑꯔꯥꯞꯄ ꯃꯐꯝꯁꯤꯡꯗꯁꯨ ꯊꯛꯅꯅꯕ ꯏꯁꯤꯡꯒꯨꯝꯕ ꯃꯇꯦꯡ ꯄꯥꯡꯂꯒꯅꯤ ꯀꯣ"
+		intervals [3]:
+			xmin = 16.11
+			xmax = 17.2
+			text = "0"
+	item [3]:
+		class = "IntervalTier"
+		name = "sentence-Latin-transcription"
+		xmin = 0.0
+		xmax = 17.2
+		intervals: size = 3
+		intervals [1]:
+			xmin = 0.0
+			xmax = 0.71
+			text = "0"
+		intervals [2]:
+			xmin = 0.71
+			xmax = 16.11
+			text = ""
+		intervals [3]:
+			xmin = 16.11
+			xmax = 17.2
+			text = "0"
+	item [4]:
+		class = "IntervalTier"
+		name = "sentence-eng-Latn-translation"
+		xmin = 0.0
+		xmax = 17.2
+		intervals: size = 3
+		intervals [1]:
+			xmin = 0.0
+			xmax = 0.71
+			text = "0"
+		intervals [2]:
+			xmin = 0.71
+			xmax = 16.11
+			text = ""
+		intervals [3]:
+			xmin = 16.11
+			xmax = 17.2
+			text = "0"

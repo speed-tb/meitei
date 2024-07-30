@@ -1,0 +1,192 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 36.9
+tiers? <exists>
+size = 4
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "sentence-IPA-transcription"
+		xmin = 0.0
+		xmax = 36.9
+		intervals: size = 10
+		intervals [1]:
+			xmin = 0.0
+			xmax = 8.0
+			text = ""
+		intervals [2]:
+			xmin = 8.0
+			xmax = 8.09
+			text = "0"
+		intervals [3]:
+			xmin = 8.09
+			xmax = 25.67
+			text = ""
+		intervals [4]:
+			xmin = 25.67
+			xmax = 25.8
+			text = "0"
+		intervals [5]:
+			xmin = 25.8
+			xmax = 30.23
+			text = ""
+		intervals [6]:
+			xmin = 30.23
+			xmax = 30.3
+			text = "0"
+		intervals [7]:
+			xmin = 30.3
+			xmax = 36.06
+			text = ""
+		intervals [8]:
+			xmin = 36.06
+			xmax = 36.12
+			text = "0"
+		intervals [9]:
+			xmin = 36.12
+			xmax = 36.87
+			text = ""
+		intervals [10]:
+			xmin = 36.87
+			xmax = 36.9
+			text = "0"
+	item [2]:
+		class = "IntervalTier"
+		name = "sentence-Mayek-transcription"
+		xmin = 0.0
+		xmax = 36.9
+		intervals: size = 10
+		intervals [1]:
+			xmin = 0.0
+			xmax = 8.0
+			text = "ꯏꯁꯀ꯭ꯋꯦꯌꯔ ꯑꯣꯐ ꯗꯤ ꯑꯦꯞ ꯗꯤ ꯋꯤꯜ ꯕꯤ ꯁꯝ ꯑꯣꯐ ꯗꯤ ꯏꯁꯀ꯭ꯋꯦꯌꯔ ꯑꯣꯐ ꯗꯤ ꯄꯤ ꯕꯤ ꯏꯁꯀ꯭ꯋꯦꯌꯔ ꯏ ꯑꯦꯐ ꯏꯁꯀ꯭ꯋꯦꯌꯔ ꯫"
+		intervals [2]:
+			xmin = 8.0
+			xmax = 8.09
+			text = "0"
+		intervals [3]:
+			xmin = 8.09
+			xmax = 25.67
+			text = "ꯃꯔꯝꯗꯤ ꯁꯤ ꯔꯥꯏ꯭ꯇ ꯇ꯭ꯔꯥꯏ꯭ꯅꯒꯟꯅꯤ ꯑꯗꯨꯅ ꯑꯦꯞꯗꯤ ꯖꯤ ꯕꯤꯅꯦ ꯂꯧꯒꯔꯃꯤꯅ ꯑꯈꯣꯏꯅ ꯐꯪꯗꯨꯏꯖꯤ ꯕꯤ ꯏꯁꯀ꯭ꯋꯦꯌꯔ ꯏꯀ꯭ꯋꯦꯜ ꯇꯨ ꯏ ꯗꯤꯗꯤ ꯑꯦꯅꯦꯅ ꯂꯧꯔꯦ ꯑꯩꯈꯣꯏꯅ ꯁꯥꯏ꯭ꯗ ꯑꯃꯒꯤ ꯑꯁꯥꯡꯕꯅꯤ  ꯑꯅ ꯑꯦ ꯏꯁꯀ꯭ꯋꯦꯌꯔ ꯄ꯭ꯂꯁ ꯑꯦꯒꯦꯜ ꯉꯁꯥꯏ ꯏ ꯑꯦꯐꯁꯨ ꯁꯥꯏ꯭ꯗ ꯑꯃꯒꯤ ꯑꯁꯥꯡꯕ ꯑꯣꯏꯕꯅꯤꯅ ꯑꯦꯒꯦꯜ ꯑꯦ ꯑꯦ ꯏꯁꯀ꯭ꯋꯦꯌꯔ ꯫"
+		intervals [4]:
+			xmin = 25.67
+			xmax = 25.8
+			text = "0"
+		intervals [5]:
+			xmin = 25.8
+			xmax = 30.23
+			text = "ꯑꯗꯨꯅ ꯕꯤ ꯏꯁꯀ꯭ꯋꯥꯔ꯭ꯁ ꯏꯀ꯭ꯋꯦꯜ ꯇꯨ  ꯑꯦ ꯏꯁꯀ꯭ꯋꯦꯌꯔ ꯄ꯭ꯂꯁ ꯑꯦ ꯏꯁꯀ꯭ꯋꯦꯌꯔ ꯏꯀ꯭ꯋꯦꯜ ꯇꯨꯇꯨꯋꯥꯏ꯭ꯁ ꯑꯦ ꯏꯀꯋꯦꯌꯔꯅꯦ"
+		intervals [6]:
+			xmin = 30.23
+			xmax = 30.3
+			text = "0"
+		intervals [7]:
+			xmin = 30.3
+			xmax = 36.06
+			text = "ꯑꯗ ꯕꯤ ꯄꯨꯊꯣꯛꯀꯦ ꯍꯥꯏ ꯇꯥꯗꯤ ꯍ꯭ꯋꯦꯜ ꯇꯦꯛ ꯏꯁꯀ꯭ꯋꯥꯔ ꯔꯨꯠ ꯑꯈꯣꯏꯅ ꯐꯪꯗꯨꯏꯖꯤ ꯕꯤ ꯏꯀ꯭ꯋꯦꯜ ꯇꯨ ꯔꯨꯠ ꯇꯨ ꯑꯦ ꯇꯥꯔꯦ ꯫"
+		intervals [8]:
+			xmin = 36.06
+			xmax = 36.12
+			text = "0"
+		intervals [9]:
+			xmin = 36.12
+			xmax = 36.87
+			text = "ꯑꯃꯨꯛ"
+		intervals [10]:
+			xmin = 36.87
+			xmax = 36.9
+			text = "0"
+	item [3]:
+		class = "IntervalTier"
+		name = "sentence-Latin-transcription"
+		xmin = 0.0
+		xmax = 36.9
+		intervals: size = 10
+		intervals [1]:
+			xmin = 0.0
+			xmax = 8.0
+			text = ""
+		intervals [2]:
+			xmin = 8.0
+			xmax = 8.09
+			text = "0"
+		intervals [3]:
+			xmin = 8.09
+			xmax = 25.67
+			text = ""
+		intervals [4]:
+			xmin = 25.67
+			xmax = 25.8
+			text = "0"
+		intervals [5]:
+			xmin = 25.8
+			xmax = 30.23
+			text = ""
+		intervals [6]:
+			xmin = 30.23
+			xmax = 30.3
+			text = "0"
+		intervals [7]:
+			xmin = 30.3
+			xmax = 36.06
+			text = ""
+		intervals [8]:
+			xmin = 36.06
+			xmax = 36.12
+			text = "0"
+		intervals [9]:
+			xmin = 36.12
+			xmax = 36.87
+			text = ""
+		intervals [10]:
+			xmin = 36.87
+			xmax = 36.9
+			text = "0"
+	item [4]:
+		class = "IntervalTier"
+		name = "sentence-English-Latin-translation"
+		xmin = 0.0
+		xmax = 36.9
+		intervals: size = 10
+		intervals [1]:
+			xmin = 0.0
+			xmax = 8.0
+			text = ""
+		intervals [2]:
+			xmin = 8.0
+			xmax = 8.09
+			text = "0"
+		intervals [3]:
+			xmin = 8.09
+			xmax = 25.67
+			text = ""
+		intervals [4]:
+			xmin = 25.67
+			xmax = 25.8
+			text = "0"
+		intervals [5]:
+			xmin = 25.8
+			xmax = 30.23
+			text = ""
+		intervals [6]:
+			xmin = 30.23
+			xmax = 30.3
+			text = "0"
+		intervals [7]:
+			xmin = 30.3
+			xmax = 36.06
+			text = ""
+		intervals [8]:
+			xmin = 36.06
+			xmax = 36.12
+			text = "0"
+		intervals [9]:
+			xmin = 36.12
+			xmax = 36.87
+			text = ""
+		intervals [10]:
+			xmin = 36.87
+			xmax = 36.9
+			text = "0"

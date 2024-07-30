@@ -1,0 +1,128 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 34.2
+tiers? <exists>
+size = 4
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "sentence-IPA-transcription"
+		xmin = 0.0
+		xmax = 34.2
+		intervals: size = 6
+		intervals [1]:
+			xmin = 0.0
+			xmax = 0.55
+			text = "0"
+		intervals [2]:
+			xmin = 0.55
+			xmax = 24.32
+			text = ""
+		intervals [3]:
+			xmin = 24.32
+			xmax = 24.36
+			text = "0"
+		intervals [4]:
+			xmin = 24.36
+			xmax = 29.05
+			text = ""
+		intervals [5]:
+			xmin = 29.05
+			xmax = 31.65
+			text = ""
+		intervals [6]:
+			xmin = 31.65
+			xmax = 34.2
+			text = "0"
+	item [2]:
+		class = "IntervalTier"
+		name = "sentence-Mayek-transcription"
+		xmin = 0.0
+		xmax = 34.2
+		intervals: size = 6
+		intervals [1]:
+			xmin = 0.0
+			xmax = 0.55
+			text = "0"
+		intervals [2]:
+			xmin = 0.55
+			xmax = 24.32
+			text = ""
+		intervals [3]:
+			xmin = 24.32
+			xmax = 24.36
+			text = "0"
+		intervals [4]:
+			xmin = 24.36
+			xmax = 29.05
+			text = "ꯑꯩꯒꯤ ꯃꯤꯡ ꯀꯥꯡꯉꯥꯕꯝ ꯃꯤꯅꯣꯇꯥ ꯑꯩꯅ ꯇꯥꯛꯀꯗꯕ ꯁꯕꯖꯦꯛꯅ ꯀ꯭ꯂꯥꯁ 9 ꯑꯃꯁꯨꯡ ꯀ꯭ꯂꯥꯁ 10 ꯕꯥꯑꯣꯂꯣꯖꯤ"
+		intervals [5]:
+			xmin = 29.05
+			xmax = 31.65
+			text = ""
+		intervals [6]:
+			xmin = 31.65
+			xmax = 34.2
+			text = "0"
+	item [3]:
+		class = "IntervalTier"
+		name = "sentence-Latin-transcription"
+		xmin = 0.0
+		xmax = 34.2
+		intervals: size = 6
+		intervals [1]:
+			xmin = 0.0
+			xmax = 0.55
+			text = "0"
+		intervals [2]:
+			xmin = 0.55
+			xmax = 24.32
+			text = ""
+		intervals [3]:
+			xmin = 24.32
+			xmax = 24.36
+			text = "0"
+		intervals [4]:
+			xmin = 24.36
+			xmax = 29.05
+			text = ""
+		intervals [5]:
+			xmin = 29.05
+			xmax = 31.65
+			text = ""
+		intervals [6]:
+			xmin = 31.65
+			xmax = 34.2
+			text = "0"
+	item [4]:
+		class = "IntervalTier"
+		name = "sentence-eng-Latn-translation"
+		xmin = 0.0
+		xmax = 34.2
+		intervals: size = 6
+		intervals [1]:
+			xmin = 0.0
+			xmax = 0.55
+			text = "0"
+		intervals [2]:
+			xmin = 0.55
+			xmax = 24.32
+			text = ""
+		intervals [3]:
+			xmin = 24.32
+			xmax = 24.36
+			text = "0"
+		intervals [4]:
+			xmin = 24.36
+			xmax = 29.05
+			text = ""
+		intervals [5]:
+			xmin = 29.05
+			xmax = 31.65
+			text = ""
+		intervals [6]:
+			xmin = 31.65
+			xmax = 34.2
+			text = "0"
