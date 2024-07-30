@@ -1,0 +1,176 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 86.3
+tiers? <exists>
+size = 4
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "sentence-IPA-transcription"
+		xmin = 0.0
+		xmax = 86.3
+		intervals: size = 9
+		intervals [1]:
+			xmin = 0.0
+			xmax = 1.32
+			text = "0"
+		intervals [2]:
+			xmin = 1.32
+			xmax = 26.19
+			text = ""
+		intervals [3]:
+			xmin = 26.19
+			xmax = 26.61
+			text = "0"
+		intervals [4]:
+			xmin = 26.61
+			xmax = 49.2
+			text = ""
+		intervals [5]:
+			xmin = 49.2
+			xmax = 49.61
+			text = "0"
+		intervals [6]:
+			xmin = 49.61
+			xmax = 64.22
+			text = ""
+		intervals [7]:
+			xmin = 64.22
+			xmax = 64.81
+			text = "0"
+		intervals [8]:
+			xmin = 64.81
+			xmax = 84.94
+			text = ""
+		intervals [9]:
+			xmin = 84.94
+			xmax = 86.3
+			text = "0"
+	item [2]:
+		class = "IntervalTier"
+		name = "sentence-Latin-transcription"
+		xmin = 0.0
+		xmax = 86.3
+		intervals: size = 9
+		intervals [1]:
+			xmin = 0.0
+			xmax = 1.32
+			text = "0"
+		intervals [2]:
+			xmin = 1.32
+			xmax = 26.19
+			text = ""
+		intervals [3]:
+			xmin = 26.19
+			xmax = 26.61
+			text = "0"
+		intervals [4]:
+			xmin = 26.61
+			xmax = 49.2
+			text = ""
+		intervals [5]:
+			xmin = 49.2
+			xmax = 49.61
+			text = "0"
+		intervals [6]:
+			xmin = 49.61
+			xmax = 64.22
+			text = ""
+		intervals [7]:
+			xmin = 64.22
+			xmax = 64.81
+			text = "0"
+		intervals [8]:
+			xmin = 64.81
+			xmax = 84.94
+			text = ""
+		intervals [9]:
+			xmin = 84.94
+			xmax = 86.3
+			text = "0"
+	item [3]:
+		class = "IntervalTier"
+		name = "sentence-Mayek-transcription"
+		xmin = 0.0
+		xmax = 86.3
+		intervals: size = 9
+		intervals [1]:
+			xmin = 0.0
+			xmax = 1.32
+			text = "0"
+		intervals [2]:
+			xmin = 1.32
+			xmax = 26.19
+			text = "ꯃꯊꯪꯗ ꯑꯩꯈꯣꯏ ꯔꯤꯐ꯭ꯂꯦꯛꯁ ꯑꯦꯛꯁꯟꯁꯤ ꯌꯦꯡꯉꯁꯤ ꯔꯤꯐ꯭ꯂꯦꯛꯁ ꯑꯦꯛꯁꯟꯁꯤꯗ ꯀꯔꯤ ꯀꯔꯤ ꯌꯦꯡꯕ ꯌꯥꯔꯦ  ꯏꯁꯝ ꯁꯝꯅ ꯔꯤꯐ꯭ꯂꯦꯛꯁ ꯑꯦꯛꯁꯟꯁꯤ ꯍꯪꯕ ꯌꯥꯏ ꯑꯗꯨꯒ ꯑꯗꯨꯒ ꯃꯉꯣꯟꯗ ꯑꯦꯛꯖꯥꯝꯄꯜ ꯑꯃ ꯈꯨꯗꯝ ꯑꯃ ꯄꯤꯌꯨꯅ ꯍꯪꯕ ꯌꯥꯏ ꯔꯤꯐ꯭ꯂꯦꯛꯁ ꯑꯦꯛꯁꯟ ꯉꯁꯥꯏꯒꯤ ꯍꯛꯆꯥꯡꯗꯨꯅ ꯉꯁꯥꯏꯒꯤ ꯔꯦꯁꯄꯣꯅꯁ ꯇꯧꯔꯛꯄꯗꯣ ꯀꯔꯤꯒꯨꯝꯕ ꯁ꯭ꯇꯤꯃꯨꯂꯥꯏ ꯑꯃ ꯈꯛꯇ ꯅꯠꯇ꯭ꯔꯥ ꯃꯗꯨꯒꯤ ꯈꯨꯗꯝ ꯑꯣꯏꯅ ꯑꯁꯥꯕ ꯑꯃ ꯄꯥꯏꯕ ꯃꯇꯝꯗ ꯈꯨꯠꯁꯤ ꯐꯠ ꯂꯥꯎꯅ ꯂꯧꯊꯣꯛꯄꯅꯆꯤꯡꯕ ꯃꯌꯥꯝꯗꯨ ꯔꯤꯐ꯭ꯂꯦꯛꯁ ꯑꯦꯛꯁꯟꯒꯤ ꯈꯨꯝꯕꯤꯔꯅꯤ"
+		intervals [3]:
+			xmin = 26.19
+			xmax = 26.61
+			text = "0"
+		intervals [4]:
+			xmin = 26.61
+			xmax = 49.2
+			text = "ꯃꯊꯪꯗ ꯔꯤꯐ꯭ꯂꯦꯛꯁ ꯑꯥꯔꯛ ꯍꯥꯏꯁꯤꯅ ꯀꯔꯤꯅꯣ ꯍꯥꯏꯔꯦ ꯔꯤꯐ꯭ꯂꯦꯛꯁ ꯑꯥꯔꯛꯇꯤ ꯉꯁꯥꯏꯒꯤ ꯁꯦꯟꯁꯔꯤ ꯅꯤꯌꯨꯔꯣꯟꯗꯒꯤ ꯍꯧꯔꯒ ꯅꯤꯌꯨꯔꯣꯟꯁꯤꯅ ꯃꯊꯪ ꯃꯊꯪ ꯆꯠꯂꯨꯔꯒ ꯕ꯭ꯔꯦꯟꯁꯤꯗ ꯑꯃꯨꯛ ꯌꯧꯔꯛꯂꯒ ꯃꯣꯇꯣꯔ ꯅꯤꯌꯨꯔꯣꯟꯗ ꯍꯟꯂꯛꯄ ꯃꯗꯨꯒꯤ ꯄꯥꯠ ꯋꯦ ꯗꯨꯕꯨ ꯔꯤꯐ꯭ꯂꯦꯛꯁ ꯑꯥꯔꯛ ꯀꯧꯌꯦꯅ ꯌꯦꯡꯈ꯭ꯔꯦꯕ ꯃꯊꯪꯗ ꯍꯪꯕ ꯌꯥꯔꯤꯁꯤ ꯔꯤꯐ꯭ꯂꯦꯛꯁ ꯑꯦꯛꯁꯟ ꯑꯃꯗꯤ ꯀꯟꯗꯤꯁꯟ ꯔꯤꯐ꯭ꯂꯦꯛꯀꯤ ꯀꯔꯤ ꯀꯔꯤ ꯈꯦꯠꯅꯕꯀꯣ"
+		intervals [5]:
+			xmin = 49.2
+			xmax = 49.61
+			text = "0"
+		intervals [6]:
+			xmin = 49.61
+			xmax = 64.22
+			text = "ꯔꯤꯐ꯭ꯂꯦꯛꯁ ꯑꯦꯛꯁꯟꯁꯤ ꯑꯩꯈꯣꯏꯅ ꯍꯥꯏꯈ꯭ꯔꯦꯀꯣ ꯑꯗꯨꯒ ꯀꯟꯗꯤꯁꯟ ꯔꯤꯐ꯭ꯂꯦꯛꯁꯤꯗꯩꯗꯅ ꯑꯩꯈꯣꯏꯒꯤ ꯀꯟꯗꯤꯁꯟ ꯇꯧꯕ ꯍꯥꯟꯅ ꯕ꯭ꯔꯦꯟꯁꯤꯗꯩꯁꯤꯗ ꯇ꯭ꯔꯦꯟ ꯇꯧꯔꯕ ꯃꯇꯨꯡꯗ ꯔꯤꯐ꯭ꯂꯦꯛꯁ ꯇꯧꯍꯟꯕꯅꯆꯤꯡꯕ ꯃꯌꯥꯝ ꯑꯗꯨ ꯑꯩꯈꯣꯏ ꯃꯃꯥꯡꯗꯁꯨ ꯐꯖꯟꯅ ꯃꯃꯨꯠ ꯇꯥꯅ ꯇꯝꯈ꯭ꯔꯦ ꯁꯤꯗꯁꯨ ꯐꯖꯟꯅ ꯈꯨꯝꯕꯤꯔꯅꯤ"
+		intervals [7]:
+			xmin = 64.22
+			xmax = 64.81
+			text = "0"
+		intervals [8]:
+			xmin = 64.81
+			xmax = 84.94
+			text = "ꯃꯊꯪꯗ ꯄꯥꯕꯂꯣꯕ ꯑꯦꯛꯁꯄꯤꯔꯤꯃꯦꯅ꯭ꯇ ꯑꯣꯟ ꯀꯟꯗꯤꯁꯟ ꯔꯤꯐ꯭ꯂꯦꯛꯁꯇꯨ ꯐꯖꯟꯅ ꯁꯟꯗꯣꯛꯅ ꯇꯧ ꯍꯥꯏꯔꯦ ꯉꯁꯥꯏꯒꯤ ꯄꯥꯕꯂꯣꯕꯅ ꯇꯧꯈꯤꯕ ꯑꯦꯛꯁꯄꯤꯔꯤꯃꯦꯅ꯭ꯇ ꯍꯨꯏ ꯑꯃꯗ ꯉꯁꯥꯏꯒꯤ ꯃꯆꯍꯤꯟꯖꯥꯛ ꯄꯤꯖꯔꯒ ꯀꯥꯡꯁꯤ ꯈꯤꯡꯂꯒ ꯇꯧꯕ ꯑꯦꯛꯁꯄꯤꯔꯤꯃꯦꯅ꯭ꯇ ꯌꯥꯝꯅ ꯃꯃꯤꯡ ꯆꯠꯈꯤꯕ ꯑꯦꯛꯁꯄꯤꯔꯤꯃꯦꯅ꯭ꯇꯇꯨ ꯁꯤꯗ ꯍꯪꯕ ꯌꯥꯔꯦ ꯃꯁꯤ ꯐꯖꯟꯅ ꯃꯗꯨꯒꯤ ꯑꯀꯨꯞꯄꯗꯨ ꯌꯦꯡꯒꯦ ꯍꯥꯏꯔꯒꯗꯤ ꯃꯃꯥꯡꯒꯤ ꯑꯦꯄꯤꯁꯣꯗꯇ ꯐꯖꯟꯅ ꯁꯟꯗꯣꯛꯅ ꯇꯥꯛꯈꯤꯕꯗꯨ ꯌꯦꯡꯂꯅꯤꯀꯣ"
+		intervals [9]:
+			xmin = 84.94
+			xmax = 86.3
+			text = "0"
+	item [4]:
+		class = "IntervalTier"
+		name = "sentence-English-Latin-translation"
+		xmin = 0.0
+		xmax = 86.3
+		intervals: size = 9
+		intervals [1]:
+			xmin = 0.0
+			xmax = 1.32
+			text = "0"
+		intervals [2]:
+			xmin = 1.32
+			xmax = 26.19
+			text = ""
+		intervals [3]:
+			xmin = 26.19
+			xmax = 26.61
+			text = "0"
+		intervals [4]:
+			xmin = 26.61
+			xmax = 49.2
+			text = ""
+		intervals [5]:
+			xmin = 49.2
+			xmax = 49.61
+			text = "0"
+		intervals [6]:
+			xmin = 49.61
+			xmax = 64.22
+			text = ""
+		intervals [7]:
+			xmin = 64.22
+			xmax = 64.81
+			text = "0"
+		intervals [8]:
+			xmin = 64.81
+			xmax = 84.94
+			text = ""
+		intervals [9]:
+			xmin = 84.94
+			xmax = 86.3
+			text = "0"

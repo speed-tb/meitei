@@ -1,0 +1,112 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 30.5
+tiers? <exists>
+size = 4
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "sentence-IPA-transcription"
+		xmin = 0.0
+		xmax = 30.5
+		intervals: size = 5
+		intervals [1]:
+			xmin = 0.0
+			xmax = 1.64
+			text = "0"
+		intervals [2]:
+			xmin = 1.64
+			xmax = 18.28
+			text = ""
+		intervals [3]:
+			xmin = 18.28
+			xmax = 18.59
+			text = "0"
+		intervals [4]:
+			xmin = 18.59
+			xmax = 29.23
+			text = ""
+		intervals [5]:
+			xmin = 29.23
+			xmax = 30.5
+			text = "0"
+	item [2]:
+		class = "IntervalTier"
+		name = "sentence-Mayek-transcription"
+		xmin = 0.0
+		xmax = 30.5
+		intervals: size = 5
+		intervals [1]:
+			xmin = 0.0
+			xmax = 1.64
+			text = "0"
+		intervals [2]:
+			xmin = 1.64
+			xmax = 18.28
+			text = "ꯃꯊꯪꯗ ꯊꯥꯏꯔꯣꯏꯗꯁꯤ ꯃꯄꯥꯡꯒꯜ ꯐꯕ ꯑꯃ ꯑꯣꯏꯅꯅꯕ ꯑꯥꯏꯌꯣꯗꯥꯏꯁ ꯑꯣꯏꯕ ꯊꯨꯝ ꯆꯥꯕ ꯗꯔꯀꯥꯔ ꯑꯣꯏꯔꯤꯕꯒꯤ ꯃꯔꯝ ꯀꯔꯤꯅꯣ ꯊꯥꯏꯔꯣꯏꯗ ꯊꯥꯏꯔꯣꯏꯗ ꯃꯄꯥꯡꯒꯜ ꯐꯕ ꯊꯥꯏꯔꯣꯏꯗ ꯑꯃ ꯂꯩꯅꯕꯒꯤꯗꯃꯛꯇ ꯑꯩꯈꯣꯏꯅ ꯑꯥꯏꯌꯣꯗꯤꯟ ꯌꯥꯎꯕ ꯊꯨꯝꯁꯤ ꯆꯥꯎ ꯍꯥꯏꯔꯤꯕꯁꯤ ꯀꯔꯤꯒꯤꯅꯣꯅ ꯍꯪꯕ ꯌꯥꯔꯦ"
+		intervals [3]:
+			xmin = 18.28
+			xmax = 18.59
+			text = "0"
+		intervals [4]:
+			xmin = 18.59
+			xmax = 29.23
+			text = "ꯃꯁꯤ ꯑꯩꯈꯣꯏ ꯑꯥꯏꯌꯣꯗꯤꯟ ꯍꯥꯏꯕ ꯄꯣꯠꯁꯤ ꯊꯥꯏꯔꯣꯏꯗ ꯊꯥꯏꯔꯣꯏꯗ ꯒ꯭ꯂꯥꯟꯅ ꯄꯨꯊꯣꯛꯄ ꯊꯥꯏꯔꯣꯛꯁꯤꯟ ꯄꯨꯊꯣꯛꯄꯁꯤꯗꯩꯁꯤꯗ ꯑꯏꯌꯣꯗꯤꯟ ꯍꯥꯏꯕ ꯄꯣꯠꯁꯤ ꯗꯔꯀꯥꯔ ꯇꯥꯏꯌꯦꯕ ꯑꯗꯨꯒꯤꯅꯦꯕ ꯑꯗꯨꯃꯥꯏꯅ ꯈꯨꯝꯕ ꯌꯥꯔꯦ"
+		intervals [5]:
+			xmin = 29.23
+			xmax = 30.5
+			text = "0"
+	item [3]:
+		class = "IntervalTier"
+		name = "sentence-Latin-transcription"
+		xmin = 0.0
+		xmax = 30.5
+		intervals: size = 5
+		intervals [1]:
+			xmin = 0.0
+			xmax = 1.64
+			text = "0"
+		intervals [2]:
+			xmin = 1.64
+			xmax = 18.28
+			text = ""
+		intervals [3]:
+			xmin = 18.28
+			xmax = 18.59
+			text = "0"
+		intervals [4]:
+			xmin = 18.59
+			xmax = 29.23
+			text = ""
+		intervals [5]:
+			xmin = 29.23
+			xmax = 30.5
+			text = "0"
+	item [4]:
+		class = "IntervalTier"
+		name = "sentence-English-Latin-translation"
+		xmin = 0.0
+		xmax = 30.5
+		intervals: size = 5
+		intervals [1]:
+			xmin = 0.0
+			xmax = 1.64
+			text = "0"
+		intervals [2]:
+			xmin = 1.64
+			xmax = 18.28
+			text = ""
+		intervals [3]:
+			xmin = 18.28
+			xmax = 18.59
+			text = "0"
+		intervals [4]:
+			xmin = 18.59
+			xmax = 29.23
+			text = ""
+		intervals [5]:
+			xmin = 29.23
+			xmax = 30.5
+			text = "0"
