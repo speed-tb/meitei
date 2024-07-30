@@ -1,0 +1,112 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 28.3
+tiers? <exists>
+size = 4
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "sentence-IPA-transcription"
+		xmin = 0.0
+		xmax = 28.3
+		intervals: size = 5
+		intervals [1]:
+			xmin = 0.0
+			xmax = 1.47
+			text = "0"
+		intervals [2]:
+			xmin = 1.47
+			xmax = 12.52
+			text = ""
+		intervals [3]:
+			xmin = 12.52
+			xmax = 12.79
+			text = "0"
+		intervals [4]:
+			xmin = 12.79
+			xmax = 27.15
+			text = ""
+		intervals [5]:
+			xmin = 27.15
+			xmax = 28.3
+			text = "0"
+	item [2]:
+		class = "IntervalTier"
+		name = "sentence-Mayek-transcription"
+		xmin = 0.0
+		xmax = 28.3
+		intervals: size = 5
+		intervals [1]:
+			xmin = 0.0
+			xmax = 1.47
+			text = "0"
+		intervals [2]:
+			xmin = 1.47
+			xmax = 12.52
+			text = "ꯉꯁꯥꯏꯒꯤ ꯑꯩꯈꯣꯏꯅ ꯈꯨꯗꯝ ꯑꯣꯏꯅ ꯍꯥꯏꯔꯕꯗꯤ ꯑꯩꯈꯣꯏ ꯒꯥꯔꯤ ꯃꯆꯥ ꯊꯧꯕ ꯃꯇꯝꯗ ꯑꯩꯈꯣꯏ ꯐꯖꯟꯅ ꯆꯦꯛꯁꯟꯅ ꯑꯃꯗꯤ ꯁꯣꯛꯇꯅ ꯇꯦꯛꯇ ꯀꯥꯏꯗꯅ ꯏꯟꯕꯥꯏꯔꯟꯃꯦꯅ꯭ꯇꯁꯤꯗ ꯆꯠꯅꯕ ꯍꯣꯠꯅꯩ"
+		intervals [3]:
+			xmin = 12.52
+			xmax = 12.79
+			text = "0"
+		intervals [4]:
+			xmin = 12.79
+			xmax = 27.15
+			text = "ꯑꯗꯒꯤ ꯀꯅꯥꯒꯨꯝꯕ ꯑꯃꯅ ꯂꯝꯖꯦꯜ ꯆꯦꯟꯕ ꯑꯃꯗꯤ ꯈꯣꯡꯅ ꯆꯠꯄ ꯃꯇꯝꯗ ꯇꯨꯗꯅꯕ ꯐꯖꯟꯅ ꯑꯩꯈꯣꯏ ꯀꯟꯇ꯭ꯔꯣꯜ ꯇꯧꯔꯒ ꯀꯣꯑꯣꯔꯗꯤꯅꯦꯠ ꯇꯧꯔꯒ ꯆꯠꯄ ꯉꯝꯃꯦꯕ ꯃꯁꯤ ꯄꯨꯝꯅꯃꯛꯁꯦ ꯑꯩꯈꯣꯏ ꯅꯔꯕꯁ ꯁꯤꯁꯇꯦꯝꯁꯤꯅ ꯃꯇꯦꯡ ꯑꯣꯏꯔꯒ ꯇꯧꯕ ꯉꯝꯕꯅꯦꯕ"
+		intervals [5]:
+			xmin = 27.15
+			xmax = 28.3
+			text = "0"
+	item [3]:
+		class = "IntervalTier"
+		name = "sentence-Latin-transcription"
+		xmin = 0.0
+		xmax = 28.3
+		intervals: size = 5
+		intervals [1]:
+			xmin = 0.0
+			xmax = 1.47
+			text = "0"
+		intervals [2]:
+			xmin = 1.47
+			xmax = 12.52
+			text = ""
+		intervals [3]:
+			xmin = 12.52
+			xmax = 12.79
+			text = "0"
+		intervals [4]:
+			xmin = 12.79
+			xmax = 27.15
+			text = ""
+		intervals [5]:
+			xmin = 27.15
+			xmax = 28.3
+			text = "0"
+	item [4]:
+		class = "IntervalTier"
+		name = "sentence-English-Latin-translation"
+		xmin = 0.0
+		xmax = 28.3
+		intervals: size = 5
+		intervals [1]:
+			xmin = 0.0
+			xmax = 1.47
+			text = "0"
+		intervals [2]:
+			xmin = 1.47
+			xmax = 12.52
+			text = ""
+		intervals [3]:
+			xmin = 12.52
+			xmax = 12.79
+			text = "0"
+		intervals [4]:
+			xmin = 12.79
+			xmax = 27.15
+			text = ""
+		intervals [5]:
+			xmin = 27.15
+			xmax = 28.3
+			text = "0"

@@ -1,0 +1,272 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 101.7
+tiers? <exists>
+size = 4
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "sentence-IPA-transcription"
+		xmin = 0.0
+		xmax = 101.7
+		intervals: size = 15
+		intervals [1]:
+			xmin = 0.0
+			xmax = 1.09
+			text = "0"
+		intervals [2]:
+			xmin = 1.09
+			xmax = 10.57
+			text = ""
+		intervals [3]:
+			xmin = 10.57
+			xmax = 11.33
+			text = "0"
+		intervals [4]:
+			xmin = 11.33
+			xmax = 28.59
+			text = ""
+		intervals [5]:
+			xmin = 28.59
+			xmax = 28.6
+			text = "0"
+		intervals [6]:
+			xmin = 28.6
+			xmax = 29.1
+			text = ""
+		intervals [7]:
+			xmin = 28.6
+			xmax = 28.6
+			text = "@@##DELETE ME##@@"
+		intervals [8]:
+			xmin = 29.1
+			xmax = 34.25
+			text = ""
+		intervals [9]:
+			xmin = 34.25
+			xmax = 34.46
+			text = "0"
+		intervals [10]:
+			xmin = 34.46
+			xmax = 55.15
+			text = ""
+		intervals [11]:
+			xmin = 55.15
+			xmax = 55.5
+			text = "0"
+		intervals [12]:
+			xmin = 55.5
+			xmax = 77.7
+			text = ""
+		intervals [13]:
+			xmin = 77.7
+			xmax = 77.88
+			text = "0"
+		intervals [14]:
+			xmin = 77.88
+			xmax = 100.3
+			text = ""
+		intervals [15]:
+			xmin = 100.3
+			xmax = 101.7
+			text = "0"
+	item [2]:
+		class = "IntervalTier"
+		name = "sentence-Mayek-transcription"
+		xmin = 0.0
+		xmax = 101.7
+		intervals: size = 15
+		intervals [1]:
+			xmin = 0.0
+			xmax = 1.09
+			text = "0"
+		intervals [2]:
+			xmin = 1.09
+			xmax = 10.57
+			text = "ꯑꯗꯨꯒ ꯃꯁꯤꯅ ꯃꯔꯝ ꯑꯣꯏꯔꯒ ꯑꯩꯈꯣꯏꯒꯤ ꯍꯛꯆꯥꯡꯒꯤ ꯇꯦꯝꯄꯔꯦꯆꯔ ꯑꯁꯤ ꯂꯦꯡꯗꯅ ꯊꯝꯕ ꯉꯝꯃꯦꯕ ꯑꯩꯈꯣꯏꯒꯤ ꯃꯤꯑꯣꯏꯕꯒꯤ ꯍꯛꯆꯥꯡꯁꯦ ꯆꯥꯎꯔꯥꯛꯅ 37 ꯁꯦꯜꯁꯤꯌꯁꯇ ꯑꯗꯨꯝ ꯂꯩꯕ ꯉꯝꯃꯤꯁꯦ"
+		intervals [3]:
+			xmin = 10.57
+			xmax = 11.33
+			text = "0"
+		intervals [4]:
+			xmin = 11.33
+			xmax = 28.59
+			text = "ꯃꯁꯤ ꯉꯁꯥꯏꯒꯤ ꯕ꯭ꯂꯗ ꯁꯥꯔꯀꯨꯂꯦꯁꯟꯒꯤ ꯌꯥꯝ ꯆꯥꯎꯕ ꯊꯧꯗꯥꯡ ꯂꯩꯀꯣ ꯑꯗꯨꯅ ꯏꯁꯤꯅ ꯑꯩꯈꯣꯏꯒꯤ ꯍꯥꯔ꯭ꯇꯇ ꯑꯅꯤꯔꯛ ꯊꯣꯛꯅ ꯆꯪꯉꯤ ꯍꯥꯏꯕꯒꯤꯗꯝꯇ ꯃꯁꯤꯕꯨ ꯑꯩꯈꯣꯏꯅ ꯗꯕꯜ ꯁꯥꯔꯀꯨꯂꯦꯁꯟ ꯀꯧꯌꯦꯕ ꯑꯗꯨꯅ ꯄꯔꯤꯈꯤꯌꯥꯗ ꯗꯕꯜ ꯁꯥꯔꯀꯨꯂꯦꯁꯟ ꯀꯔꯤ ꯀꯔꯤ ꯀꯔꯥꯏꯕꯨ ꯀꯧꯕꯒꯦ ꯍꯥꯏꯅ ꯍꯪꯂꯛꯄ ꯌꯥꯏꯀꯣ"
+		intervals [5]:
+			xmin = 28.59
+			xmax = 28.6
+			text = "0"
+		intervals [6]:
+			xmin = 28.6
+			xmax = 29.1
+			text = ""
+		intervals [7]:
+			xmin = 28.6
+			xmax = 28.6
+			text = "@@##DELETE ME##@@"
+		intervals [8]:
+			xmin = 29.1
+			xmax = 34.25
+			text = "ꯀꯥꯈꯜ ꯑꯍꯨꯝ ꯂꯩꯕ ꯍꯥꯔ꯭ꯇꯁꯦ ꯑꯃꯨꯛ ꯌꯦꯡꯁꯦ ꯀꯥꯈꯜ ꯑꯍꯨꯝꯈꯛ ꯄꯥꯟꯕ ꯍꯥꯔ꯭ꯇꯁꯨ ꯂꯩꯇꯕ ꯅꯠꯇꯦ"
+		intervals [9]:
+			xmin = 34.25
+			xmax = 34.46
+			text = "0"
+		intervals [10]:
+			xmin = 34.46
+			xmax = 55.15
+			text = "ꯑꯣꯔꯒꯥꯅꯤꯖꯝꯁꯤꯡꯗ ꯃꯗꯨ ꯑꯩꯈꯣꯏꯅ ꯑꯦꯝꯐꯤꯕꯤꯌꯟ ꯑꯃꯗꯤ ꯔꯦꯞꯇꯥꯏꯜꯁꯤꯡꯗ ꯎꯕ ꯌꯥꯏ ꯃꯁꯤꯗꯩꯁꯤꯗ ꯑꯣꯛꯁꯤꯖꯦꯟ ꯑꯃꯗꯤ ꯗꯤꯑꯣꯛꯁꯤꯖꯤꯅꯦꯇꯦꯗ ꯑꯣꯛꯁꯤꯖꯤꯅꯦꯇꯦꯗ ꯑꯃꯗꯤ ꯗꯤꯑꯣꯛꯁꯤꯖꯤꯅꯦꯇꯦꯗ ꯏꯁꯦ ꯃꯤꯛꯁꯤꯡ ꯃꯈꯣꯏ ꯑꯅꯤꯁꯦ ꯄꯨꯟꯁꯤꯟꯅꯕꯒꯤ ꯃꯑꯣꯡ ꯑꯃ ꯎꯏꯀꯣ ꯑꯗꯨꯅ ꯃꯔꯝ ꯑꯣꯏꯔꯒ ꯉꯁꯥꯏꯒꯤ ꯃꯈꯣꯏꯗ ꯍꯛꯆꯥꯡꯒꯤ ꯇꯦꯝꯄꯔꯦꯆꯔ ꯑꯃ ꯂꯦꯡꯗꯅ ꯊꯝꯕ ꯉꯝꯗꯦꯅ ꯍꯥꯏꯀꯣ"
+		intervals [11]:
+			xmin = 55.15
+			xmax = 55.5
+			text = "0"
+		intervals [12]:
+			xmin = 55.5
+			xmax = 77.7
+			text = "ꯃꯗꯨ ꯑꯩꯈꯣꯏ ꯈꯪꯕ ꯌꯥꯏ ꯑꯗꯨꯒ ꯍꯛꯆꯥꯡꯒꯤ ꯇꯦꯝꯄꯔꯦꯆꯔꯁꯀꯤ ꯀꯩꯗꯧꯔꯦ ꯃꯣꯏ ꯑꯦꯟꯚꯥꯏꯇꯣꯟꯃꯦꯅ꯭ꯇ ꯇꯦꯝꯄꯔꯦꯆꯔꯗ ꯃꯈꯥ ꯄꯣꯟꯂꯦꯕ ꯑꯩꯈꯣꯏ ꯔꯦꯞꯇꯥꯏꯜꯁꯤꯡ ꯆꯨꯝꯒꯨꯝꯕ ꯅꯠꯇ꯭ꯗꯔꯥ ꯒꯣꯝꯕꯤꯔꯒꯨꯝꯕꯅ ꯅꯨꯡꯁꯥ ꯃꯉꯥꯜ ꯑꯗꯨꯝ ꯌꯥꯏꯔꯔꯒ ꯂꯩꯕ ꯊꯦꯡꯅꯈ꯭ꯔꯦꯀꯣ ꯊꯦꯡꯟꯔꯝꯒꯅꯤ ꯑꯗꯨꯝ ꯑꯗꯨꯅ ꯃꯈꯣꯏꯒꯤ ꯍꯛꯆꯥꯡꯒꯤ ꯇꯦꯝꯄꯔꯦꯆꯔ ꯑꯁꯤ ꯑꯦꯟꯚꯥꯏꯔꯟꯂꯦꯅ꯭ꯇ ꯇꯦꯝꯄꯔꯦꯆꯔꯗ ꯃꯈꯥ ꯄꯣꯟꯂꯦꯕ ꯃꯌꯥꯝꯁꯦ ꯂꯩꯔꯦ ꯑꯗꯨꯅ ꯀꯥꯈꯜ ꯑꯍꯨꯝ ꯄꯥꯟꯕ ꯍꯥꯔ꯭ꯇꯁꯤ ꯈ1ꯉꯖꯤꯟꯕ ꯌꯥꯏ ꯑꯗꯨꯒ"
+		intervals [13]:
+			xmin = 77.7
+			xmax = 77.88
+			text = "0"
+		intervals [14]:
+			xmin = 77.88
+			xmax = 100.3
+			text = "ꯑꯗꯨꯒ ꯀꯥꯈꯜ ꯑꯅꯤꯈꯛꯇ ꯂꯩꯕ ꯍꯥꯔ꯭ꯇ ꯀꯥꯈꯜ ꯑꯅꯤꯈꯛ ꯌꯥꯎꯕ ꯍꯥꯔ꯭ꯇꯁꯨ ꯂꯩꯇꯕ ꯅꯠꯇꯦ ꯃꯗꯨ ꯑꯩꯈꯣꯏ ꯉꯥꯗ ꯎꯕ ꯐꯪꯒꯅꯤ ꯐꯤꯁꯦꯁꯇ ꯃꯁꯤꯗꯤ ꯑꯩꯈꯣꯏ ꯑꯣꯛꯁꯤꯖꯤꯅꯦꯇꯦꯗ ꯕ꯭ꯂꯗꯁꯤ ꯃꯈꯣꯏꯒꯤ ꯍꯥꯔ꯭ꯇꯁꯤꯅ ꯄꯝꯄ ꯇꯣ ꯒꯤꯂꯁ ꯐꯣꯔ ꯑꯣꯛꯁꯤꯖꯤꯅꯦꯁꯟ ꯍꯥꯔ꯭ꯇꯁꯤꯅ ꯒꯤꯜ ꯇꯝꯅ ꯉꯁꯥꯏꯒꯤ ꯏꯁꯤ ꯄꯝꯄ ꯇꯧꯒꯅꯤ ꯑꯗꯨꯒ ꯑꯣꯛꯁꯤꯖꯦꯟ ꯂꯧꯔꯨꯅꯕꯒꯤꯗꯝꯇ"
+		intervals [15]:
+			xmin = 100.3
+			xmax = 101.7
+			text = "0"
+	item [3]:
+		class = "IntervalTier"
+		name = "sentence-Latin-transcription"
+		xmin = 0.0
+		xmax = 101.7
+		intervals: size = 15
+		intervals [1]:
+			xmin = 0.0
+			xmax = 1.09
+			text = "0"
+		intervals [2]:
+			xmin = 1.09
+			xmax = 10.57
+			text = ""
+		intervals [3]:
+			xmin = 10.57
+			xmax = 11.33
+			text = "0"
+		intervals [4]:
+			xmin = 11.33
+			xmax = 28.59
+			text = ""
+		intervals [5]:
+			xmin = 28.59
+			xmax = 28.6
+			text = "0"
+		intervals [6]:
+			xmin = 28.6
+			xmax = 29.1
+			text = ""
+		intervals [7]:
+			xmin = 28.6
+			xmax = 28.6
+			text = "@@##DELETE ME##@@"
+		intervals [8]:
+			xmin = 29.1
+			xmax = 34.25
+			text = ""
+		intervals [9]:
+			xmin = 34.25
+			xmax = 34.46
+			text = "0"
+		intervals [10]:
+			xmin = 34.46
+			xmax = 55.15
+			text = ""
+		intervals [11]:
+			xmin = 55.15
+			xmax = 55.5
+			text = "0"
+		intervals [12]:
+			xmin = 55.5
+			xmax = 77.7
+			text = ""
+		intervals [13]:
+			xmin = 77.7
+			xmax = 77.88
+			text = "0"
+		intervals [14]:
+			xmin = 77.88
+			xmax = 100.3
+			text = ""
+		intervals [15]:
+			xmin = 100.3
+			xmax = 101.7
+			text = "0"
+	item [4]:
+		class = "IntervalTier"
+		name = "sentence-eng-Latn-translation"
+		xmin = 0.0
+		xmax = 101.7
+		intervals: size = 15
+		intervals [1]:
+			xmin = 0.0
+			xmax = 1.09
+			text = "0"
+		intervals [2]:
+			xmin = 1.09
+			xmax = 10.57
+			text = ""
+		intervals [3]:
+			xmin = 10.57
+			xmax = 11.33
+			text = "0"
+		intervals [4]:
+			xmin = 11.33
+			xmax = 28.59
+			text = ""
+		intervals [5]:
+			xmin = 28.59
+			xmax = 28.6
+			text = "0"
+		intervals [6]:
+			xmin = 28.6
+			xmax = 29.1
+			text = ""
+		intervals [7]:
+			xmin = 28.6
+			xmax = 28.6
+			text = "@@##DELETE ME##@@"
+		intervals [8]:
+			xmin = 29.1
+			xmax = 34.25
+			text = ""
+		intervals [9]:
+			xmin = 34.25
+			xmax = 34.46
+			text = "0"
+		intervals [10]:
+			xmin = 34.46
+			xmax = 55.15
+			text = ""
+		intervals [11]:
+			xmin = 55.15
+			xmax = 55.5
+			text = "0"
+		intervals [12]:
+			xmin = 55.5
+			xmax = 77.7
+			text = ""
+		intervals [13]:
+			xmin = 77.7
+			xmax = 77.88
+			text = "0"
+		intervals [14]:
+			xmin = 77.88
+			xmax = 100.3
+			text = ""
+		intervals [15]:
+			xmin = 100.3
+			xmax = 101.7
+			text = "0"

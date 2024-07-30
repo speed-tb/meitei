@@ -1,0 +1,112 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 39.4
+tiers? <exists>
+size = 4
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "sentence-IPA-transcription"
+		xmin = 0.0
+		xmax = 39.4
+		intervals: size = 5
+		intervals [1]:
+			xmin = 0.0
+			xmax = 0.15
+			text = "0"
+		intervals [2]:
+			xmin = 0.15
+			xmax = 17.73
+			text = ""
+		intervals [3]:
+			xmin = 17.73
+			xmax = 18.51
+			text = "0"
+		intervals [4]:
+			xmin = 18.51
+			xmax = 38.16
+			text = ""
+		intervals [5]:
+			xmin = 38.16
+			xmax = 39.4
+			text = "0"
+	item [2]:
+		class = "IntervalTier"
+		name = "sentence-Mayek-transcription"
+		xmin = 0.0
+		xmax = 39.4
+		intervals: size = 5
+		intervals [1]:
+			xmin = 0.0
+			xmax = 0.15
+			text = "0"
+		intervals [2]:
+			xmin = 0.15
+			xmax = 17.73
+			text = "ꯏꯟꯅ ꯉꯁꯥꯏꯒꯤ ꯄꯥꯝꯕꯤꯒꯤ ꯃꯔꯥꯁꯤ ꯃꯈꯥꯗꯗꯥ ꯆꯨꯝꯅ ꯆꯪꯈꯤꯅꯤ ꯍꯥꯏꯗ꯭ꯔꯥ ꯑꯗꯨꯕꯨ ꯏꯁꯤꯡ ꯊꯝꯕ ꯃꯇꯝꯗꯗꯤ ꯏꯁꯤꯡꯒꯤ ꯃꯅꯥꯛꯁꯤꯗ ꯑꯃꯨꯛ ꯀꯣꯟꯈꯠꯂꯛꯑꯦꯕ ꯉꯁꯥꯏꯒꯤ ꯃꯔꯥꯁꯤꯅ ꯃꯗꯨꯒꯤ ꯃꯨꯕꯃꯦꯅ꯭ꯇꯗꯣ ꯏꯁꯤꯡꯁꯤꯅ ꯏꯟꯗꯤꯌꯨꯁ ꯇꯧꯏ ꯍꯥꯏꯕꯒꯤꯗꯃꯛꯇ ꯍꯥꯏꯗ꯭ꯔꯣ ꯇ꯭ꯔꯣꯄꯤꯖꯝ ꯍꯥꯏꯅ ꯀꯧꯔꯅꯦꯕ"
+		intervals [3]:
+			xmin = 17.73
+			xmax = 18.51
+			text = "0"
+		intervals [4]:
+			xmin = 18.51
+			xmax = 38.16
+			text = "ꯃꯁꯤꯗꯩꯁꯤꯗ ꯑꯩꯈꯣꯏꯅ ꯈꯪꯕ ꯌꯥꯕ ꯑꯃ ꯂꯩꯔꯦ ꯍꯥꯏꯗ꯭ꯔꯣ ꯇ꯭ꯔꯣꯄꯤꯖꯝ ꯍꯥꯏꯔꯤꯁꯤꯅ ꯖꯤꯌꯣ ꯇ꯭ꯔꯣꯄꯤꯖꯝꯗꯒꯤ ꯀꯟꯕ ꯍꯦꯟꯂꯦꯕ ꯑꯗꯨꯅ ꯉꯁꯥꯏꯒꯤ ꯔꯨꯠꯁꯤ ꯆꯨꯝꯅ ꯅꯣꯔꯃꯦꯜꯂꯤ ꯃꯈꯥꯗ ꯁꯨꯝ ꯀꯨꯝꯊꯈꯤꯒꯗꯕꯗꯗꯨ ꯏꯁꯤꯡ ꯊꯝꯕ ꯃꯇꯝꯗ ꯏꯁꯤꯡ ꯂꯣꯝꯗ ꯀꯣꯟꯈꯠꯂꯛꯂꯤꯗꯣ ꯉꯁꯥꯏꯒꯤ ꯋꯥꯇꯔ ꯍꯥꯏꯗ꯭ꯔꯣ ꯇ꯭ꯔꯣꯄꯤꯖꯝꯁꯤꯅ ꯖꯤꯌꯣ ꯇ꯭ꯔꯣꯄꯤꯖꯝꯗꯒꯤ ꯁꯥꯐꯨ ꯀꯟꯕꯅꯅꯦꯕ"
+		intervals [5]:
+			xmin = 38.16
+			xmax = 39.4
+			text = "0"
+	item [3]:
+		class = "IntervalTier"
+		name = "sentence-Latin-transcription"
+		xmin = 0.0
+		xmax = 39.4
+		intervals: size = 5
+		intervals [1]:
+			xmin = 0.0
+			xmax = 0.15
+			text = "0"
+		intervals [2]:
+			xmin = 0.15
+			xmax = 17.73
+			text = ""
+		intervals [3]:
+			xmin = 17.73
+			xmax = 18.51
+			text = "0"
+		intervals [4]:
+			xmin = 18.51
+			xmax = 38.16
+			text = ""
+		intervals [5]:
+			xmin = 38.16
+			xmax = 39.4
+			text = "0"
+	item [4]:
+		class = "IntervalTier"
+		name = "sentence-English-Latin-translation"
+		xmin = 0.0
+		xmax = 39.4
+		intervals: size = 5
+		intervals [1]:
+			xmin = 0.0
+			xmax = 0.15
+			text = "0"
+		intervals [2]:
+			xmin = 0.15
+			xmax = 17.73
+			text = ""
+		intervals [3]:
+			xmin = 17.73
+			xmax = 18.51
+			text = "0"
+		intervals [4]:
+			xmin = 18.51
+			xmax = 38.16
+			text = ""
+		intervals [5]:
+			xmin = 38.16
+			xmax = 39.4
+			text = "0"
