@@ -1,0 +1,76 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 29.3
+tiers? <exists>
+size = 2
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "sentence-Mayek-gloss"
+		xmin = 0.0
+		xmax = 29.3
+		intervals: size = 7
+		intervals [1]:
+			xmin = 0.0
+			xmax = 1.07
+			text = "0"
+		intervals [2]:
+			xmin = 1.07
+			xmax = 4.9
+			text = ""
+		intervals [3]:
+			xmin = 4.9
+			xmax = 5.32
+			text = "0"
+		intervals [4]:
+			xmin = 5.32
+			xmax = 21.05
+			text = ""
+		intervals [5]:
+			xmin = 21.05
+			xmax = 21.35
+			text = "0"
+		intervals [6]:
+			xmin = 21.35
+			xmax = 28.91
+			text = ""
+		intervals [7]:
+			xmin = 28.91
+			xmax = 29.3
+			text = "0"
+	item [2]:
+		class = "IntervalTier"
+		name = "sentence-Mayek-transcription"
+		xmin = 0.0
+		xmax = 29.3
+		intervals: size = 7
+		intervals [1]:
+			xmin = 0.0
+			xmax = 1.07
+			text = "0"
+		intervals [2]:
+			xmin = 1.07
+			xmax = 4.9
+			text = "ꯏꯂꯨꯃꯤꯅꯦꯠ ꯇꯧꯋꯦꯕ ꯃꯉꯥꯟꯁꯦ ꯉꯥꯟꯊꯣꯛꯍꯜꯂꯦꯕ ꯃꯄꯥꯗꯣ ꯐꯥꯎꯔꯒ ꯆꯠꯄ ꯃꯇꯝꯗ"
+		intervals [3]:
+			xmin = 4.9
+			xmax = 5.32
+			text = "0"
+		intervals [4]:
+			xmin = 5.32
+			xmax = 21.05
+			text = "ꯃꯁꯤꯅ ꯇꯥꯛ ꯑꯦꯕ ꯃꯁꯤꯗꯩ ꯄꯥꯔꯇꯤꯀꯜ ꯁꯦ ꯀꯃꯥꯏꯟ ꯇꯧꯅ ꯃꯈꯣꯏꯅ ꯑ ꯀꯩꯗꯧꯋꯦ ꯁ꯭ꯀꯦꯇꯔ ꯇꯧꯔꯤꯅꯣ ꯍꯥꯏꯕꯗ ꯃꯉꯥꯟꯁꯤꯒꯤ ꯃꯉꯥꯟꯁꯤꯡꯁꯦ ꯄꯥꯔꯇꯤꯀꯜ ꯁꯤꯡꯁꯤꯅ ꯆꯥꯎꯔꯕꯅꯤꯅ ꯊꯛꯇꯣꯔꯛ ꯑꯦꯕ ꯊꯛꯇꯣꯛꯑꯕꯅꯅ ꯃꯉꯥꯟ ꯁꯤꯒꯤ ꯂꯝꯕꯤꯁꯦ ꯆꯠꯈꯤꯕꯩ ꯂꯝꯤꯕꯤꯁꯦ ꯏꯔꯥꯏ ꯂꯏꯅ ꯎꯕ ꯐꯪꯍꯜꯂꯦꯕ ꯀꯣ"
+		intervals [5]:
+			xmin = 21.05
+			xmax = 21.35
+			text = "0"
+		intervals [6]:
+			xmin = 21.35
+			xmax = 28.91
+			text = "ꯑꯗꯒꯤ ꯅꯝꯕꯔ ꯐꯣꯔꯗ ꯄꯥꯔꯇꯤꯀꯜ꯭ꯁ ꯑꯣꯐ ꯑꯦ ꯁꯁꯄꯦꯟꯗꯔ ꯁꯁꯄꯦꯟꯁꯟ ꯁꯦꯇꯂ꯭ꯁ ꯗꯥꯎꯟ ꯍꯨꯋꯦꯟ ꯗ ꯁꯁꯄꯦꯟꯁꯟ ꯏꯁ ꯀꯦꯞ ꯑꯟ ꯗꯤꯁꯇꯕ"
+		intervals [7]:
+			xmin = 28.91
+			xmax = 29.3
+			text = "0"

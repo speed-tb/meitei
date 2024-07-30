@@ -1,0 +1,108 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 62.7
+tiers? <exists>
+size = 2
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "sentence-Mayek-gloss"
+		xmin = 0.0
+		xmax = 62.7
+		intervals: size = 11
+		intervals [1]:
+			xmin = 0.0
+			xmax = 0.02
+			text = "0"
+		intervals [2]:
+			xmin = 0.02
+			xmax = 6.19
+			text = ""
+		intervals [3]:
+			xmin = 6.19
+			xmax = 6.4
+			text = "0"
+		intervals [4]:
+			xmin = 6.4
+			xmax = 14.8
+			text = ""
+		intervals [5]:
+			xmin = 14.8
+			xmax = 15.3
+			text = "0"
+		intervals [6]:
+			xmin = 15.3
+			xmax = 35.9
+			text = ""
+		intervals [7]:
+			xmin = 35.9
+			xmax = 36.2
+			text = "0"
+		intervals [8]:
+			xmin = 36.2
+			xmax = 50.11
+			text = ""
+		intervals [9]:
+			xmin = 50.11
+			xmax = 50.2
+			text = "0"
+		intervals [10]:
+			xmin = 50.2
+			xmax = 60.46
+			text = ""
+		intervals [11]:
+			xmin = 60.46
+			xmax = 62.7
+			text = "0"
+	item [2]:
+		class = "IntervalTier"
+		name = "sentence-Mayek-transcription"
+		xmin = 0.0
+		xmax = 62.7
+		intervals: size = 11
+		intervals [1]:
+			xmin = 0.0
+			xmax = 0.02
+			text = "0"
+		intervals [2]:
+			xmin = 0.02
+			xmax = 6.19
+			text = "ꯍꯥꯞꯄꯦ ꯍꯥꯞꯄꯀꯥꯅꯁꯤꯗ ꯃꯈꯣꯏꯁꯦ ꯂꯣꯜꯂꯦ ꯃꯩ ꯍꯤꯠꯇ ꯊꯥꯔꯀꯥꯟꯁꯤꯗ ꯂꯣꯜꯂꯦꯕ ꯁꯦꯆꯨꯔꯦꯁꯟ ꯁ꯭ꯇꯦꯠ ꯑꯃ ꯌꯧꯅꯕꯩꯗꯃꯛꯇ ꯀꯣ"
+		intervals [3]:
+			xmin = 6.19
+			xmax = 6.4
+			text = "0"
+		intervals [4]:
+			xmin = 6.4
+			xmax = 14.8
+			text = "ꯁꯦꯆꯨꯔꯦꯁꯟ ꯁ꯭ꯇꯦꯠꯁꯤꯗ ꯌꯧꯔꯕ ꯃꯇꯨꯡꯁꯤꯗꯩꯁꯤꯗ ꯑꯌꯈꯣꯏꯒꯤ ꯁꯣꯂꯨꯁꯟ ꯁꯦ ꯁꯦꯆꯨꯔꯦꯁꯟ ꯁ꯭ꯇꯦꯠꯁꯦ ꯌꯧꯔ ꯃꯇꯨꯡꯗ  ꯃꯈꯣꯏꯁꯦ ꯑꯃꯨꯛ ꯏꯡꯗꯜꯂꯦꯕ ꯀꯣ ꯏꯡꯗꯍꯜꯂꯊꯝꯃꯅꯤꯕ"
+		intervals [5]:
+			xmin = 14.8
+			xmax = 15.3
+			text = "0"
+		intervals [6]:
+			xmin = 15.3
+			xmax = 35.9
+			text = "ꯑꯈꯣꯏ ꯂꯦꯞꯇꯗꯤ ꯏꯪꯗꯍꯟꯕꯁꯤꯗꯩꯁꯤꯗ ꯑꯈꯣꯏ ꯊꯧꯔꯤꯒꯨꯝꯕ ꯅꯠꯇ꯭ꯔꯒ ꯂꯪ ꯃꯆꯥ ꯃ ꯑꯈꯣꯏ ꯌꯥꯜꯂꯒ ꯊꯝꯃꯤ ꯉꯁꯥꯏ ꯁꯣꯂꯨꯁꯟꯗꯨꯗ ꯑꯗꯨꯒ ꯑꯈꯣꯏꯅ ꯅꯦꯀ꯭ꯁꯗꯦ ꯒꯨꯝꯕꯗ ꯌꯦꯡꯕ ꯃꯇꯝꯗ ꯂꯪꯗꯨꯗ ꯑꯈꯣꯏ ꯈꯔꯤꯁ꯭ꯇꯦꯂ꯭ꯁ ꯑꯣꯏꯅ ꯀꯣ ꯉꯁꯥꯏ ꯁꯣꯂꯤꯠꯁꯤꯡꯁꯦ ꯈꯔꯤꯁꯇꯦꯜ  ꯄ꯭ꯌꯣꯔ ꯐꯣꯝꯗ ꯅꯞꯇꯨꯅ ꯂꯩꯕ ꯊꯦꯡꯅꯩ ꯍꯥꯏꯕꯗꯤ ꯑꯈꯣꯏ ꯆꯤꯅꯤ ꯃꯔꯨꯒꯨꯝꯕ ꯊꯨꯝ ꯃꯔꯨ ꯒꯨꯝꯕꯩ ꯇꯥꯏꯞꯇ ꯑꯈꯣꯏ ꯂꯪꯁꯤꯗ ꯃꯌꯧꯝ ꯃꯌꯣꯝ ꯌꯥꯜꯂ ꯂꯩꯔꯝꯃꯦꯕꯀꯣ"
+		intervals [7]:
+			xmin = 35.9
+			xmax = 36.2
+			text = "0"
+		intervals [8]:
+			xmin = 36.2
+			xmax = 50.11
+			text = "ꯁꯃꯥꯏꯅ ꯇꯧꯗꯅ ꯁꯣꯂꯤꯠꯁꯤꯡ ꯑꯐꯕ ꯑꯈꯣꯏꯒꯤ ꯄ꯭ꯌꯣꯔ ꯑꯣꯏꯕ ꯁꯣꯂꯤꯠꯁꯤꯡꯁꯤꯅ ꯉꯁꯥꯏ ꯈ꯭ꯔꯤꯁꯇꯦꯜ ꯐꯣꯝꯗ ꯐꯪꯒ꯭ꯔꯅꯤ ꯑꯗꯨꯒ ꯏꯝꯄ꯭ꯌꯨꯔꯤꯇꯤꯁ ꯁꯤꯡꯗꯨꯅ ꯁꯣꯂꯨꯁꯟꯒꯤ ꯃꯈꯥ ꯍꯥꯏꯕꯗꯤ ꯁꯣꯂꯨꯁꯟꯗꯨꯗ ꯌꯥꯎꯗꯨꯅ ꯑꯗꯨꯝ ꯂꯩꯕ ꯊꯦꯡꯅꯔꯒꯅꯤ ꯀꯣ ꯏꯝꯄ꯭ꯌꯨꯔꯤꯇꯤꯁ ꯃꯌꯥꯝꯁꯤꯡꯗꯨꯅ"
+		intervals [9]:
+			xmin = 50.11
+			xmax = 50.2
+			text = "0"
+		intervals [10]:
+			xmin = 50.2
+			xmax = 60.46
+			text = "ꯃꯁꯤ ꯇꯦꯛꯅꯤꯛꯁꯦ ꯑꯈꯣꯏꯅ ꯁꯃꯨꯗ꯭ꯔꯒꯤ ꯏꯁꯤꯡꯗꯒꯤ ꯊꯨꯝꯍꯤꯆꯦꯟꯕ ꯏꯁꯤꯡꯁꯤꯗꯒꯤ ꯑꯈꯣꯏꯅ ꯁꯣꯂ꯭ꯇ ꯀꯨꯝꯕꯁꯦ ꯑꯈꯣꯏ ꯄ꯭ꯌꯨꯔꯤꯐꯥꯏ ꯇꯧꯕ ꯍꯥꯏꯒꯗ꯭ꯔ ꯑꯈꯣꯏ ꯁꯄ꯭ꯔꯦꯁꯟ ꯇꯧꯕꯁꯤꯗꯩꯁꯤꯗ ꯁꯤꯖꯟꯅꯩ ꯑꯕ ꯀꯣ"
+		intervals [11]:
+			xmin = 60.46
+			xmax = 62.7
+			text = "0"

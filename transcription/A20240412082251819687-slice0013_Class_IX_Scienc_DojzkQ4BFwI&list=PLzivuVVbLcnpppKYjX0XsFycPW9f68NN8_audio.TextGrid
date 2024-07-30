@@ -1,0 +1,144 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 9.0
+tiers? <exists>
+size = 4
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "sentence-IPA-transcription"
+		xmin = 0.0
+		xmax = 9.0
+		intervals: size = 7
+		intervals [1]:
+			xmin = 0.0
+			xmax = 0.12
+			text = ""
+		intervals [2]:
+			xmin = 0.12
+			xmax = 0.96
+			text = "0"
+		intervals [3]:
+			xmin = 0.96
+			xmax = 1.19
+			text = ""
+		intervals [4]:
+			xmin = 1.19
+			xmax = 1.21
+			text = "0"
+		intervals [5]:
+			xmin = 1.21
+			xmax = 7.39
+			text = ""
+		intervals [6]:
+			xmin = 7.39
+			xmax = 8.74
+			text = "0"
+		intervals [7]:
+			xmin = 8.74
+			xmax = 9.0
+			text = ""
+	item [2]:
+		class = "IntervalTier"
+		name = "sentence-Mayek-transcription"
+		xmin = 0.0
+		xmax = 9.0
+		intervals: size = 7
+		intervals [1]:
+			xmin = 0.0
+			xmax = 0.12
+			text = ""
+		intervals [2]:
+			xmin = 0.12
+			xmax = 0.96
+			text = "0"
+		intervals [3]:
+			xmin = 0.96
+			xmax = 1.19
+			text = ""
+		intervals [4]:
+			xmin = 1.19
+			xmax = 1.21
+			text = "0"
+		intervals [5]:
+			xmin = 1.21
+			xmax = 7.39
+			text = "ꯑꯗꯨꯅ ꯑꯩꯒꯤ ꯅꯨꯡꯁꯤꯔꯕ ꯁꯥꯇ꯭ꯔ ꯅꯣꯏ ꯈꯪꯕ ꯉꯝꯕ꯭ꯔ ꯌꯦꯡꯉꯨ ꯑꯅꯤꯁꯦ ꯀꯅꯥꯅ ꯆꯨꯝꯗꯣꯏꯅꯣ ꯆꯥꯎꯕꯅ ꯍꯥꯏꯕꯁꯦ ꯆꯨꯝꯗꯣꯏꯔꯥ ꯇꯣꯝꯕꯅ ꯍꯥꯏꯕꯁꯦ ꯆꯨꯝꯗꯣꯏꯔꯥ꯫"
+		intervals [6]:
+			xmin = 7.39
+			xmax = 8.74
+			text = "0"
+		intervals [7]:
+			xmin = 8.74
+			xmax = 9.0
+			text = ""
+	item [3]:
+		class = "IntervalTier"
+		name = "sentence-Latin-transcription"
+		xmin = 0.0
+		xmax = 9.0
+		intervals: size = 7
+		intervals [1]:
+			xmin = 0.0
+			xmax = 0.12
+			text = ""
+		intervals [2]:
+			xmin = 0.12
+			xmax = 0.96
+			text = "0"
+		intervals [3]:
+			xmin = 0.96
+			xmax = 1.19
+			text = ""
+		intervals [4]:
+			xmin = 1.19
+			xmax = 1.21
+			text = "0"
+		intervals [5]:
+			xmin = 1.21
+			xmax = 7.39
+			text = ""
+		intervals [6]:
+			xmin = 7.39
+			xmax = 8.74
+			text = "0"
+		intervals [7]:
+			xmin = 8.74
+			xmax = 9.0
+			text = ""
+	item [4]:
+		class = "IntervalTier"
+		name = "sentence-eng-Latn-translation"
+		xmin = 0.0
+		xmax = 9.0
+		intervals: size = 7
+		intervals [1]:
+			xmin = 0.0
+			xmax = 0.12
+			text = ""
+		intervals [2]:
+			xmin = 0.12
+			xmax = 0.96
+			text = "0"
+		intervals [3]:
+			xmin = 0.96
+			xmax = 1.19
+			text = ""
+		intervals [4]:
+			xmin = 1.19
+			xmax = 1.21
+			text = "0"
+		intervals [5]:
+			xmin = 1.21
+			xmax = 7.39
+			text = ""
+		intervals [6]:
+			xmin = 7.39
+			xmax = 8.74
+			text = "0"
+		intervals [7]:
+			xmin = 8.74
+			xmax = 9.0
+			text = ""

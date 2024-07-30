@@ -1,0 +1,44 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 6.0
+tiers? <exists>
+size = 2
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "sentence-Mayek-gloss"
+		xmin = 0.0
+		xmax = 6.0
+		intervals: size = 3
+		intervals [1]:
+			xmin = 0.0
+			xmax = 1.1
+			text = "0"
+		intervals [2]:
+			xmin = 1.1
+			xmax = 3.5
+			text = ""
+		intervals [3]:
+			xmin = 3.5
+			xmax = 6.0
+			text = "0"
+	item [2]:
+		class = "IntervalTier"
+		name = "sentence-Mayek-transcription"
+		xmin = 0.0
+		xmax = 6.0
+		intervals: size = 3
+		intervals [1]:
+			xmin = 0.0
+			xmax = 1.1
+			text = "0"
+		intervals [2]:
+			xmin = 1.1
+			xmax = 3.5
+			text = "ꯇꯦꯛꯅꯤꯛ ꯈꯔ ꯇꯣꯉꯥꯟ ꯇꯣꯉꯥꯟꯕ ꯇꯦꯛꯅꯤꯛꯁꯤꯁꯨ ꯂꯩ ꯑꯕ"
+		intervals [3]:
+			xmin = 3.5
+			xmax = 6.0
+			text = "0"

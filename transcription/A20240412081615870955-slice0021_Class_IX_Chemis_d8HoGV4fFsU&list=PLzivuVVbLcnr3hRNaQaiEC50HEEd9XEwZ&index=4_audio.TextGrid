@@ -1,0 +1,84 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 53.8
+tiers? <exists>
+size = 2
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "sentence-Mayek-gloss"
+		xmin = 0.0
+		xmax = 53.8
+		intervals: size = 8
+		intervals [1]:
+			xmin = 0.0
+			xmax = 1.1
+			text = "0"
+		intervals [2]:
+			xmin = 1.1
+			xmax = 9.93
+			text = ""
+		intervals [3]:
+			xmin = 9.93
+			xmax = 10.11
+			text = "0"
+		intervals [4]:
+			xmin = 10.11
+			xmax = 30.0
+			text = ""
+		intervals [5]:
+			xmin = 30.0
+			xmax = 30.12
+			text = "0"
+		intervals [6]:
+			xmin = 30.12
+			xmax = 34.9
+			text = ""
+		intervals [7]:
+			xmin = 34.9
+			xmax = 35.3
+			text = "0"
+		intervals [8]:
+			xmin = 35.3
+			xmax = 53.8
+			text = ""
+	item [2]:
+		class = "IntervalTier"
+		name = "sentence-Mayek-transcription"
+		xmin = 0.0
+		xmax = 53.8
+		intervals: size = 8
+		intervals [1]:
+			xmin = 0.0
+			xmax = 1.1
+			text = "0"
+		intervals [2]:
+			xmin = 1.1
+			xmax = 9.93
+			text = "ꯁꯄ꯭ꯔꯦꯁꯟ ꯇꯧꯕ ꯀꯅꯥꯏ ꯃꯇꯦꯡꯅ ꯁꯦꯟꯇ꯭ꯔꯤ ꯐ꯭ꯌꯨꯒꯦꯁꯟ  ꯍꯥꯏꯕ ꯄ꯭ꯔꯣꯁꯦꯁ ꯁꯤꯒꯤ ꯃꯇꯨꯡ ꯏꯟꯅ ꯁꯦꯟꯇ꯭ꯤ ꯐ꯭ꯌꯨꯒꯦꯁꯟ ꯑꯁꯤ ꯇꯧꯅꯕ ꯍꯣꯅꯕꯗ ꯑꯈꯣꯏꯅ ꯃꯦꯆꯤꯟ ꯑꯃ ꯗꯔ ꯀꯥ ꯑꯣꯏꯒꯅꯤ ꯁꯦꯟꯇ꯭ꯔꯤꯐ꯭ꯌꯨꯁ ꯃꯦꯆꯤꯟ ꯑꯃ ꯀꯣ"
+		intervals [3]:
+			xmin = 9.93
+			xmax = 10.11
+			text = "0"
+		intervals [4]:
+			xmin = 10.11
+			xmax = 30.0
+			text = "ꯁꯦꯟꯇ꯭ꯔꯤ ꯐ꯭ꯌꯨꯁ ꯃꯦꯆꯤꯟꯁꯦ ꯑꯈꯣꯏ ꯅꯎꯡꯇꯤꯒꯤ ꯑꯗꯨꯝ ꯎꯏ ꯀꯣ ꯁꯝꯅ ꯍꯥꯏꯔꯕꯗ ꯑꯈꯣꯏ ꯋꯥꯆꯤꯡ ꯃꯦꯆꯤꯟꯗꯥ ꯑꯈꯣꯏ ꯗ꯭ꯔꯥꯏꯌꯔ ꯀꯥꯏꯅ ꯑꯃ ꯁꯔꯨꯛ ꯑꯃ ꯌꯥꯎꯔꯤꯝꯅꯤ ꯑꯗꯨꯗ ꯎꯡꯉꯤ ꯀꯣ ꯎꯡꯉꯤꯕ ꯊꯧꯑꯣꯡꯗꯣ ꯑꯈꯣꯏ ꯁꯦꯟꯇ꯭ꯔꯤ ꯐ꯭ꯌꯨꯒꯦꯁꯟꯅꯤ ꯁꯦꯟꯇ꯭ꯔꯤꯐ꯭ꯌꯨꯁ ꯃꯦꯆꯤꯟꯃꯛ ꯅꯠꯇ꯭ꯔꯒꯁꯨ ꯁꯦꯟꯇ꯭ꯔꯤꯐ꯭ꯌꯨꯒꯦꯁꯟꯅꯤ ꯃꯁꯤ ꯑꯅꯝꯕꯅ ꯑꯈꯣꯏ ꯂꯦꯕꯣꯔꯦꯇꯣꯔꯤꯁꯀꯣ ꯃꯦꯗꯤꯀꯦꯜ ꯂꯦꯕꯣꯔꯦꯇ꯭ꯔꯤꯁꯇ ꯀꯩꯗ ꯑꯈꯣꯏ ꯁꯤꯓꯤꯟꯅꯩ꯫"
+		intervals [5]:
+			xmin = 30.0
+			xmax = 30.12
+			text = "0"
+		intervals [6]:
+			xmin = 30.12
+			xmax = 34.9
+			text = "ꯑꯗꯨ ꯑꯈꯣꯏ ꯃꯦꯊꯠ ꯁꯦ ꯀꯃꯥꯏꯟ ꯇꯧꯅ ꯑꯈꯣꯏ ꯁꯤꯖꯟꯟꯕꯒꯦ ꯍꯥꯏꯕꯗꯨ  ꯑꯃꯨꯛꯇꯪ ꯌꯦꯡꯃꯤꯟꯅꯁꯦ"
+		intervals [7]:
+			xmin = 34.9
+			xmax = 35.3
+			text = "0"
+		intervals [8]:
+			xmin = 35.3
+			xmax = 53.8
+			text = "ꯏꯟ ꯗꯤꯁ ꯃꯦꯊꯠ ꯃꯦꯊꯠ ꯑꯁꯤꯗ ꯃꯤꯛꯆꯔ ꯑꯣꯐ ꯗ ꯐꯥꯏꯟ ꯁꯁꯄꯦꯟꯗꯦꯗ ꯄꯥꯔꯇꯤꯀꯜ ꯏꯟ ꯂꯤꯀ꯭ꯋꯤꯠ ꯏꯁ ꯇꯦꯀꯟ ꯏꯟ ꯑꯦ ꯇꯦꯁꯇ꯭ꯌꯨꯞ ꯇꯦꯁꯇ꯭ꯌꯨꯞ ꯑꯃꯗ ꯂꯧꯔꯅꯤ ꯑꯕ ꯑꯈꯣꯏ ꯁꯁꯄꯦꯟꯗꯦꯠ ꯄꯥꯔꯇꯤꯀꯜꯁꯨ ꯌꯥꯎꯔꯕ  ꯁꯦ ꯇꯦꯁ꯭ꯌꯨꯞꯇ ꯂꯧꯔꯀꯥꯟꯗ ꯇꯦꯁꯇ꯭ꯌꯨꯞꯁꯦ ꯑꯈꯣꯏꯅ ꯊꯝꯃꯅꯤ ꯑꯕ ꯁꯦꯟꯇꯔꯤ ꯐ꯭ꯌꯨꯁ ꯃꯦꯆꯤꯟꯁꯤꯗ ꯍꯥꯞꯆꯤꯜꯂꯅꯤ ꯑꯕ ꯑꯗꯨꯒ ꯃꯁꯤ ꯔꯣꯇꯦꯠꯂꯤ ꯑꯗꯨꯝ  ꯌꯥꯝ ꯀꯨꯏꯅ"
